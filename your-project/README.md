@@ -30,17 +30,21 @@ You compare the sum of your cards and the dealer cards.If the dealer get 21, he 
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
+-look for information
+-plane the steps of the git and forking it.
+-do the step by step in the next points
 -player amount (limit between 20 and 500)
--the bets of each one: player and dealer
+-bet
 -random of cards deck = total of 4 * 24
 -the hand of the player and the dealer
 -player bet in this round, say dealer bets de same (multiply by 2 de bet)
--do the show the cards of player and dealer just 1 bi set [0]
+-do the show the cards of player and dealer just 1 for set [0]
 -result comparison: yes hand> 21: out / yes
 -ask if you want another letter or not
 -compare result of both by summing the values
--if you win by 21 or more than the dealer
-
+-decide to keep playing or not
+-check errors
+-update the readme
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
@@ -53,5 +57,5 @@ My repository has 1 folder where you can finde this Readme.md file and the actua
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/):https://github.com/AlexNavarroLlecha/Project-Week-1-Build-Your-Own-Game  
-[Slides](https://slides.com/)  
+[Slides](https://slides.com/): https://docs.google.com/presentation/d/1A-9wjMHswoKlvGZyY-ujEUahkj6rln4CRkzM6zN9658/edit#slide=id.p 
 [Trello](https://trello.com/en): https://trello.com/b/1WtEPmNI/project-1-build-your-own-game  
