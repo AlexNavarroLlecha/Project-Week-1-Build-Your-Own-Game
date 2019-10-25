@@ -52,6 +52,6 @@ My repository has 1 folder where you can finde this Readme.md file and the actua
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/):https://github.com/AlexNavarroLlecha/Project-Week-1-Build-Your-Own-Game  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/en): https://trello.com/b/1WtEPmNI/project-1-build-your-own-game  
